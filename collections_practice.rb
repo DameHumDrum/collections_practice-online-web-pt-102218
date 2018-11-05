@@ -25,3 +25,7 @@ def kesha_maker(array)
     kesha[2] = "$"
 end
 end
+
+def find_a(array)
+ array.select do |letter|
+   
